@@ -1,0 +1,17 @@
+{
+  "name": "eas-signer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "hiendv",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereum-attestation-service/eas-sdk-150": "npm:@ethereum-attestation-service/eas-sdk@1.5.0",
+    "@ethereum-attestation-service/eas-sdk": "^1.6.0",
+    "ethers": "^6.11.1",
+    "vitest": "^1.5.0"
+  }
+}
